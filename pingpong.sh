@@ -25,3 +25,5 @@ sudo systemctl start docker
 
 # Verify whether Docker is installed successfully
 docker --version
+# download file pingpong
+wget https://pingpong-build.s3.ap-southeast-1.amazonaws.com/linux/latest/PINGPONG

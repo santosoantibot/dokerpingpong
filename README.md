@@ -1,4 +1,4 @@
-git clone https://github.com/santosoantibot/dokerpingpong.git && cd dokerpingpong/ && sudo chmod +x pingpong.sh && sudo ./pingpong.sh
+git clone https://github.com/santosoantibot/dokerpingpong.git && cd dokerpingpong/ && sudo chmod +x ppp.sh && sudo ./ppp.sh
 
 
 # paste_key di ganti key anda di web
